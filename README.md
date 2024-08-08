@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	loadcfg "github.com/xtasysensei/go-viper-config/loadCfg"
+	loadcfg "github.com/xtasysensei/go-yaml-config/loadCfg"
 )
 
 func main() {
