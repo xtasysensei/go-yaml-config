@@ -1,0 +1,12 @@
+database:
+  postgresql:
+    hostname: localhost
+    port: 5432
+    username: sensei
+    password: 12345
+
+  redis:
+    hostname: shem
+
+server:
+  port: 8000
