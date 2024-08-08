@@ -6,7 +6,7 @@ database:
     password: 12345
 
   redis:
-    hostname: shem
+    hostname: xxxx
 
 server:
   port: 8000
